@@ -1,5 +1,5 @@
 [sncast.sepolia]
 # url = "https://starknet-sepolia.public.blastapi.io/rpc/v0_7"
 url = "https://free-rpc.nethermind.io/sepolia-juno"
-account = "../sepolia_account.json"
-keystore = "../sepolia_keystore.json"
+account = "sepolia_account.json"
+keystore = "sepolia_keystore.json"
